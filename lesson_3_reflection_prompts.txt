@@ -6,12 +6,13 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Do be able to decide when a commits is made "public" and when you want anyone else to take part of the change.
+    If github would sync everything automatic a unfinished projekt could be shared.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    A branch is a parallel commit fo the project and could be used for making alternative version and to try out new functions based on the oroginal project. A clone is a copy of the original project and your able to make changes to a clone. A fork is like a clone but you you can't make changes to the orgiginal.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
