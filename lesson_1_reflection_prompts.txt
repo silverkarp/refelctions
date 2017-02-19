@@ -30,4 +30,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    I would like to set up a enviroment to store all my projects to have a stable version controll function.
+    I would like to set up a enviroment to store all my projects to have a stable version controll function.4
