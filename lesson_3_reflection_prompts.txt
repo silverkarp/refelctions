@@ -27,4 +27,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If someone works on master at the same time as you it would be an good idea to work at a branch to make it easier to merge the changes.
